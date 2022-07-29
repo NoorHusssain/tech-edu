@@ -1,0 +1,21 @@
+*{box-sizing: border-box;}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@500&display=swap');
+
+.h3{ font-family:'Poppins', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+color: gray;
+}
+
+.write{ font-weight: 700;
+    color: gray;
+font-family:'Poppins', sans-serif;}
+
+.smile{ filter: brightness(50%);}
+
+.explore{ font-family: 'Poppins', sans-serif;
+font-weight: 700;
+font-size: 3rem;
+
+}
